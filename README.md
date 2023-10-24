@@ -6,10 +6,10 @@ Mac And Cheese
 
 **Team Members:**
 
-1. Nidhi Ramani @
-2. Sarah Serghi
-3. Arushi Charu
-4. Isabelle Jordan @isabelle-hj
+1. Nidhi Ramani @ nid20
+2. Sarah Serghi @sserghi
+3. Arushi Charu @arushicharu
+4. Isabelle Jordan @ isabelle-hj
 
 # Problem Description:
 
