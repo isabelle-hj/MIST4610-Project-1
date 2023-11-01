@@ -2,7 +2,7 @@
 # Team: 
 **Team Name:**
 
-Mac And Cheese
+macNcheese
 
 **Team Members:**
 
@@ -33,7 +33,57 @@ The Patient and Staff tables have two many-to-many relationships between them. T
 
 # Data Dictionary: 
 
-Figured we should wait and finalize the data model before putting in our data charts.
+**Table: Appointment**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/0fde35cd-8b8f-4a14-bd8d-1d26c76ab392)
+
+**Table: Billing**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/321d93fa-82c5-4fa9-9237-4792d8d2a3a8)
+
+**Table: Department**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/7a5478e8-6b13-4020-aec7-5deb4314ff46)
+
+**Table: Diagnostic Test**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/9a774f7d-83fd-48e1-a950-b43bc4d4ba86)
+
+**Table: Facility**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/763d1e91-2f4d-4949-b70e-cb7091a346c6)
+
+**Table: Feedback**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/16ae38b9-1365-4992-bbf8-ffbef75740de)
+
+**Table: Insurer**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/dd042b54-677e-426a-88ba-36aabbc4b562)
+
+**Table: Insurer_has_Patient**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/09f590de-c99e-4766-aea4-08fdfadcc9cc)
+
+**Table: Inventory**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/e167a5ea-0683-4863-a7bd-51a44ddbd86c)
+
+**Table: Medical Records**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/327a3bb1-22fb-4179-b27c-26885403f806)
+
+**Table: Patient**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/a29550f2-e8d7-44cf-a49e-403137c1d827)
+
+**Table: Prescription**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/041cf449-258a-46c1-ade1-17923ea09012)
+
+**Table: Staff**
+
+![image](https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/edaeb1d5-dc56-45a4-972b-0386070eefb8)
 
 # Queries:
 
