@@ -6,10 +6,10 @@ macNcheese
 
 **Team Members:**
 
-1. Nidhi Ramani @nid20
-2. Sarah Serghi < HREF="https://github.com/sserghi" TARGET="_blank">Sarah Serghi</a> 
-3. Arushi Charu @arushicharu
-4. Isabelle Jordan @isabelle-hj
+1. Nidhi Ramani [@nid20](https://github.com/nid20)
+2. Sarah Serghi [@sserghi](https://github.com/sserghi) 
+3. Arushi Charu [@arushicharu](https://github.com/arushicharu)
+4. Isabelle Jordan [@isabelle-hj](https://github.com/isabelle-hj)
 
 # Problem Description:
 
