@@ -139,6 +139,7 @@ This query is important because it allows us to identify who has been prescribed
 
 
 <img width="609" alt="Screenshot 2023-11-07 at 1 50 50 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/d402fa1c-4187-4d18-9ca4-896d62046d0d">
+
 # Database Information:
 
  Name of the database: cs_macNcheesep1
