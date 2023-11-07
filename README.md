@@ -127,16 +127,20 @@ This query is important because, at this clinic, we are currently re-evaluating 
 
 This query is important because we have been receiving some complaints from our staff from the Cardiology department about them being overworked and not having much off time. This is why it’s important to examine the shift information from the cardiology department to re-evaluate the scheduling system. 
 
-9. /
+9. List the first and last name of patients who had a billing amount that was greater than the average of all billing amounts.
+<img width="527" alt="Screenshot 2023-11-07 at 1 52 31 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/15bc4900-f8b1-4853-b303-4329a4bfc7a6">
+
+This query is another one of our initiatives to re-evaluate the prices of the different services we offer.
+
 10. As of June 1st 2023, list the patients first and last names who are not yet of age as well as their date of birth, only for those who have been prescribed Hydrocodone or Alprazolam.
 <img width="567" alt="Screenshot 2023-11-07 at 1 35 06 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/28942eaa-f3de-4dd5-8b05-8ec5e549c56a">
 
 This query is important because it allows us to identify who has been prescribed a medication that could potentially interfere with mandatory blood or urine testing (in this case, Alprazolam and Hydrocodone). This allows us to find those patients and schedule them appropriately for an appointment when their respective medication runs out in order for the patient to not consume the treatment for at least a day prior to their appointment to avoid any interference. Those who are underage but have not consumed either of these medications can be scheduled normally, but careful attention is needed for these particular patients.
 
 
-
-
-
+<img width="609" alt="Screenshot 2023-11-07 at 1 50 50 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/d402fa1c-4187-4d18-9ca4-896d62046d0d">
 # Database Information:
 
-Fully did not understand this part of the project guidelines :) 
+ Name of the database: cs_macNcheesep1
+
+ Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
