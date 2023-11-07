@@ -7,7 +7,7 @@ macNcheese
 **Team Members:**
 
 1. Nidhi Ramani @nid20
-2. Sarah Serghi @sserghi
+2. Sarah Serghi < HREF="https://github.com/sserghi" TARGET="_blank">Sarah Serghi</a> 
 3. Arushi Charu @arushicharu
 4. Isabelle Jordan @isabelle-hj
 
