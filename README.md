@@ -144,4 +144,4 @@ This query is important because it allows us to identify who has been prescribed
 
  Name of the database: cs_macNcheesep1
 
- Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+ Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL Q1();
