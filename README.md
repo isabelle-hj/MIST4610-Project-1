@@ -89,17 +89,50 @@ The Patient and Staff tables have two many-to-many relationships between them. T
 
 1. List the staff members whose manager is Bob Duncan.
 <img width="539" alt="Screenshot 2023-11-07 at 1 17 35 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/353503d5-da5f-45fb-bcc0-1113f50d14a3">
+
 As with any company or business, we want to be able to keep track of staff members that are considered managers and which staff members need to report to them. In this case, Bob Duncan currently needs to train his staff to follow a new protocol that will be implemented by the clinic. This query will help us figure out which of our staff members we need to send an email to to notify about their upcoming training.
 
 2. Select the inventory from the PPE Storage Facility where the quantity in stock is less than 200.
 <img width="581" alt="Screenshot 2023-11-07 at 1 21 50 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/bfa96a9a-e094-433f-8722-4ec207297cd1">
+
 At this clinic, we want to make sure that we have the minimum quantity of basic PPE, such as gloves and masks, at all times. This query would allow us to see what PPE needs to be restocked. However, it should be taken into consideration that some of the PPE including respirators and eye goggles do not necessarily need to have at least 200 of the respective items in stock.
 
 3. Find the day that patient whose name is Brooklyn Jenkins came in and list the staff member that saw her.
 <img width="716" alt="Screenshot 2023-11-07 at 1 24 35 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/289b07fb-b8dc-4b93-b6ed-3b9a2f059c84">
+
 In some cases, we need to be able to quickly pull up which staff member saw a specific patient. These cases could include a billing concern, an overall follow up question from the patient  needing to be directed to a staff member, a question from the patient about the medicine prescribed, etc.
 
-4. 
+4. List out the patient names who saw a staff member from the Pharmacy department and list the comments of the feedback that they wrote along with their name.
+<img width="764" alt="Screenshot 2023-11-07 at 1 27 46 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/8692c9ac-e595-42e0-a573-33558cade67b">
+
+This query is important because in the past we have had patients complain about wait time and customer service for our pharmacy department in particular. We can use this query to occasionally check on the reviews that patients are leaving for our clinic after they were checked in or seen by a staff member in the pharmacy department.
+
+5. List the patients who rated the clinic a 7 or below, their rating, and their comments.
+<img width="527" alt="Screenshot 2023-11-07 at 1 29 17 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/e142cb26-aa5c-4a40-a32d-c7f2ed0f5655">
+
+This query is important because we always want to improve the patient experience. We can use this query to find patients who felt that their experience was below our standards, and see their comments to see how we can improve from here.
+
+6. List the patients who had their vital signs checked who do not have insurance.
+<img width="535" alt="Screenshot 2023-11-07 at 1 30 41 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/4a3f30e3-7d1b-4411-b52b-6939537db422">
+
+This query is important when it comes to questions of billing. If patients are receiving care and having tests run while at the clinic, we need to know what tests are being run and how the patient plans to pay for them. This query shows us patients who will be paying out of pocket for their tests.
+
+7. List the services provided that had an amount billed of at least 200 dollars.
+<img width="407" alt="Screenshot 2023-11-07 at 1 32 34 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/26574180-c682-4536-b456-8511d1088207">
+
+This query is important because, at this clinic, we are currently re-evaluating the prices of the different services we offer. We have been getting some feedback from our patients about the more expensive services which is why it is important to see which services are currently above $200 to perform a price analysis. 
+
+8. List the staff members in the Cardiology department and their shift information.
+<img width="530" alt="Screenshot 2023-11-07 at 1 33 31 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/6c3caee4-ee82-4177-9cf2-596dfbccb342">
+
+This query is important because we have been receiving some complaints from our staff from the Cardiology department about them being overworked and not having much off time. This is why it’s important to examine the shift information from the cardiology department to re-evaluate the scheduling system. 
+
+9. /
+10. As of June 1st 2023, list the patients first and last names who are not yet of age as well as their date of birth, only for those who have been prescribed Hydrocodone or Alprazolam.
+<img width="567" alt="Screenshot 2023-11-07 at 1 35 06 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/28942eaa-f3de-4dd5-8b05-8ec5e549c56a">
+
+This query is important because it allows us to identify who has been prescribed a medication that could potentially interfere with mandatory blood or urine testing (in this case, Alprazolam and Hydrocodone). This allows us to find those patients and schedule them appropriately for an appointment when their respective medication runs out in order for the patient to not consume the treatment for at least a day prior to their appointment to avoid any interference. Those who are underage but have not consumed either of these medications can be scheduled normally, but careful attention is needed for these particular patients.
+
 
 
 
