@@ -87,6 +87,23 @@ The Patient and Staff tables have two many-to-many relationships between them. T
 
 # Queries:
 
+1. List the staff members whose manager is Bob Duncan.
+<img width="539" alt="Screenshot 2023-11-07 at 1 17 35 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/353503d5-da5f-45fb-bcc0-1113f50d14a3">
+As with any company or business, we want to be able to keep track of staff members that are considered managers and which staff members need to report to them. In this case, Bob Duncan currently needs to train his staff to follow a new protocol that will be implemented by the clinic. This query will help us figure out which of our staff members we need to send an email to to notify about their upcoming training.
+
+2. Select the inventory from the PPE Storage Facility where the quantity in stock is less than 200.
+<img width="581" alt="Screenshot 2023-11-07 at 1 21 50 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/bfa96a9a-e094-433f-8722-4ec207297cd1">
+At this clinic, we want to make sure that we have the minimum quantity of basic PPE, such as gloves and masks, at all times. This query would allow us to see what PPE needs to be restocked. However, it should be taken into consideration that some of the PPE including respirators and eye goggles do not necessarily need to have at least 200 of the respective items in stock.
+
+3. Find the day that patient whose name is Brooklyn Jenkins came in and list the staff member that saw her.
+<img width="716" alt="Screenshot 2023-11-07 at 1 24 35 PM" src="https://github.com/isabelle-hj/MIST4610-Project-1/assets/148258434/289b07fb-b8dc-4b93-b6ed-3b9a2f059c84">
+In some cases, we need to be able to quickly pull up which staff member saw a specific patient. These cases could include a billing concern, an overall follow up question from the patient  needing to be directed to a staff member, a question from the patient about the medicine prescribed, etc.
+
+4. 
+
+
+
+
 # Database Information:
 
 Fully did not understand this part of the project guidelines :) 
